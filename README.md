@@ -1,2 +1,2 @@
 # paper
-A clone of paper.io
+A clone of the iOS game paper.io
